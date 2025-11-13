@@ -1,0 +1,67 @@
+[
+	{
+		"name": "SeasonSky",
+		"ip": "play.seasonsky.fr",
+		"type": "PC"
+	},
+	{
+		"name": "EvoluCraft",
+		"ip": "play.evolucraft.fr",
+		"type": "PC"
+	},
+        {
+                "name": "MinePiece",
+                "ip": "play.minepiece.net",
+                "type": "PC"
+        },
+	{
+		"name": "Blocaria",
+		"ip": "play.blocaria.fr",
+		"type": "PC"
+	},
+        {
+                "name": "ChunkLock",
+                "ip": "direct.chunklock.com",
+                "type": "PC"
+        },
+        {
+                "name": "EpicWorld",
+                "ip": "direct.epicworld.gg",
+                "type": "PC"
+        },
+        {
+                "name": "Hadaria",
+                "ip": "play.hadaria.fr",
+                "type": "PC"
+        },
+        {
+                "name": "PokeLegends",
+                "ip": "play.pokelegends.fr",
+                "type": "PC"
+        },
+        {
+                "name": "OneBlock",
+                "ip": "play.oneblock.fr",
+                "type": "PC"
+        },
+        {
+                "name": "MineGens",
+                "ip": "play.minegens.fr",
+                "type": "PC"
+        },
+        {
+                "name": "MinePiece - EU",
+                "ip": "play.mineberry.fr",
+                "type": "PC"
+        },
+        {
+                "name": "PokeWild",
+                "ip": "play.pokewild.com",
+                "type": "PC"
+        },
+        {
+                "name": "Farmdaria",
+                "ip": "play.farmdaria.fr",
+                "type": "PC"
+        }
+]
