@@ -1,10 +1,5 @@
 [
   {
-    "name": "SeasonSky",
-    "ip": "play.seasonsky.fr",
-    "type": "PC"
-  },
-  {
     "name": "EvoluCraft",
     "ip": "play.evolucraft.fr",
     "type": "PC"
@@ -50,13 +45,8 @@
     "type": "PC"
   },
   {
-    "name": "PokeWild",
-    "ip": "play.pokewild.com",
-    "type": "PC"
-  },
-  {
-    "name": "Farmdaria",
-    "ip": "play.farmdaria.fr",
+    "name": "PokeIsland",
+    "ip": "play.pokeisland.fr",
     "type": "PC"
   }
 ]
