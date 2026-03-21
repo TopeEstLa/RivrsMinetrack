@@ -8,7 +8,7 @@
 		"connectTimeout": 2500
 	},
 	"oldPingsCleanup": {
-		"enabled": false,
+		"enabled": true,
 		"interval": 3600000
 	},
 	"logFailedPings": false,
