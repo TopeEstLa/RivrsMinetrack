@@ -48,5 +48,10 @@
     "name": "PokeIsland",
     "ip": "play.pokeisland.fr",
     "type": "PC"
+  },
+  {
+    "name": "WorldEra",
+    "ip": "play.worldera.net",
+    "type": "PC"
   }
 ]
