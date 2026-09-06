@@ -53,5 +53,10 @@
     "name": "WorldEra",
     "ip": "play.worldera.net",
     "type": "PC"
+  },
+  {
+    "name": "ChunkLockPoland",
+    "ip": "play.chunklock.pl",
+    "type": "PC"
   }
 ]
