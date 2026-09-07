@@ -58,5 +58,10 @@
     "name": "ChunkLockPoland",
     "ip": "play.chunklock.pl",
     "type": "PC"
+  },
+  {
+    "name": "MineBerryItalia",
+    "ip": "play.mineberry.it",
+    "type": "PC"
   }
 ]
