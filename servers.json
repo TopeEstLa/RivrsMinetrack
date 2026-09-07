@@ -63,5 +63,10 @@
     "name": "MineBerryItalia",
     "ip": "play.mineberry.it",
     "type": "PC"
+  },
+  {
+    "name": "SnkMC",
+    "ip": "play.snkmc.net",
+    "type": "PC"
   }
 ]
